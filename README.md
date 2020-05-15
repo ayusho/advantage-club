@@ -1,4 +1,16 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# How to run the app?
+
+#### Make sure the system has git installed
+
+#### Step 1. git clone https://github.com/ayusho/advantage-club.git
+
+#### Step 2. npm install
+
+#### Step 3. npm start
+
+The window would open in the default browser on 'http://localhost:3000/'
+
+
 
 ## Available Scripts
 
